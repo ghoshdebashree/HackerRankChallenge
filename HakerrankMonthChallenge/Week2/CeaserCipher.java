@@ -1,6 +1,4 @@
 package Week2;
-
-
 public class CeaserCipher {
   public static void main(String[] args) {
     String str = "!m-rB`-oN!.W`cLAcVbN/CqSoolII!SImji.!w/`Xu`uZa1TWPRq`uRBtok`xPT`lL-zPTc.BSRIhu..-!.!tcl!-U";
